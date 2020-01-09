@@ -49,5 +49,5 @@ When finished save the code by pushing it to GitHub and showcase the application
 
 ## View the application in the link provided below
 
-[FLIXTER](https://nomster-dessy-owiti.herokuapp.com/)
+[NOMSTER](https://nomster-dessy-owiti.herokuapp.com/)
 
