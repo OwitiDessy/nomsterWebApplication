@@ -31,7 +31,7 @@ SendGrid
 
 ## Creating and Running the application
 
-Set up the initial project structure by creating a new rails web application that uses Postgresql and create an initial, empty database by running rake db:create to have a place to store information. Start the server.Construct the web development pipeline: git, github and heroku. This will save and run the application code in the development and production environment. 
+Set up the initial project structure by creating a new rails web application that uses Postgresql and create an initial, empty database by running rake db:create to have a place to store information. Start the server. Construct the web development pipeline: git, github and heroku. This will save and run the application code in the development and production environment. 
 
 Set up models and database, build the infrastructure which includes controllers, routes tables and view files. Set up the pipeline for uploading images to the web application using Amazon S3 as the Uploader that stores images. Add carousel image slider that enables image slideshow on a homepage that has multiple images in it. Apply user authentication by setting up the devise gem and adding login links to the navbar. This grants users ability to sign up, sign in and sign out of the application. 
 
