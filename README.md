@@ -9,6 +9,8 @@ This web application is a Yelp clone that functions as a platform for users to s
 
 Ruby on Rails. Ruby version 2.5.3 and rails version 5.2.3
 
+Sublime Text Editor
+
 jQuery
 
 HTML and CSS
